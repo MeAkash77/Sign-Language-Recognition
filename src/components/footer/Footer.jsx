@@ -14,7 +14,7 @@ const Footer = () => {
         <h3>
           &#169; &nbsp;2023
           &nbsp;&nbsp;
-          <span>SLR</span>
+          <span>AAKASH</span>
           &nbsp;&nbsp;
           All rights reserved.
         </h3>
