@@ -54,17 +54,6 @@
 - redux-thunk
 - uuid
 
-## Team Members
-
-- So this project is a group project done in collaboration with the members mentioned below.
-
-| Name            | Email-id                      |
-| :-------------- | :---------------------------- |
-| Shubham More    | `shubhamp1251@gmail.com`      |
-| Sameer Metkar   | `sameermetkar@gmail.com`      |
-| Omkar Mandavkar | `omkarmandavkar000@gmail.com` |
-| Durgesh Kolhe   | `dkolhe985@gmail.com`         |
-
 ## Project Details
 
 - **Our Project Report:** [Report.pdf](https://drive.google.com/file/d/1A_gBXKfEjNwHZbtnanu82jgLrbtblQ38/view?usp=sharing)
@@ -81,15 +70,7 @@
 ## Steps to set up the project
 
 - **Check this document for project setup:** [SetUpDoc.docx](https://docs.google.com/document/d/1siwZjc0LJQgKTn__vtzs8tMfr9OElrsThmqmRJc9dHE/edit?usp=sharing)
-
-
-## Authors
-
-- [@shubham-more](https://github.com/shubhammore1251/)
-- [@sameer-metkar](https://github.com/sameermetkar/)
-- [@omkar-mandavkar](https://github.com/omkarmandavkar/)
-- [@durgesh-kolhe](https://github.com/Durgesh240)
-
+- 
 ## Acknowledgements
 
 - [React](https://react.dev/)
@@ -110,10 +91,3 @@
 ![D Image](./public/screenshots/D.jpg)
 
 ![Dashboard Image](./public/screenshots/dasboard.jpeg)
-
-## Support
-
-For support, contact
-
-- email: shubhamp1251@gmail.com
-- LinkedIn: [Shubham More](https://www.linkedin.com/in/shubham-more1251/)
