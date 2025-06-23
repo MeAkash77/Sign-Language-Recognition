@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "sign-language-ai"
-  }
+    "default": "sign-language-ai-2a197"
+  },
+  "targets": {},
+  "etags": {}
 }
